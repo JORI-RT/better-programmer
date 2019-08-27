@@ -3,6 +3,8 @@
 ## Index
 * [CH1.attentsion the Code](./ch1.md)
 * [CH2.Keep Clean](./ch2.md)
+* [CH3.Write fewly code](./ch3.md)
+* [CH4.Remove Code](./ch4.md)
 
 
 
