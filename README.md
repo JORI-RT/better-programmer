@@ -7,6 +7,7 @@
 * [CH4.Remove Code](./ch4.md)
 * [CH5.Fantom in codebase](./ch5.md)
 * [CH6.drive liver](./ch6.md)
+* [CH9.bug](./ch9.md)
 
 
 * [CH12.複雑さに対処する](./ch12.md)
